@@ -16,4 +16,4 @@ jobs:
     - name: Run Cypress Tests
       uses: cypress-io/github-action@v3
       with:
-        spec: cypress/e2e/**
+        spec: cypress/e2e/
